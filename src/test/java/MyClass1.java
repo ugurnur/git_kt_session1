@@ -2,6 +2,7 @@ public class MyClass1 {
 
     public static void main(String[] args) {
         System.out.println("Set up line");
+        System.out.println("GitHub is cool ");
         String deneme = "Deneme";
         System.out.println(deneme);
         System.out.println("Tugba Line");
@@ -9,4 +10,5 @@ public class MyClass1 {
         System.out.println("ugur line");
         System.out.println("Orhan");
     }
+
 }
