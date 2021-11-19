@@ -1,6 +1,10 @@
-public class MyClass1 {
+import org.w3c.dom.ls.LSOutput;
 
+public class MyClass1 {
     public static void main(String[] args) {
+        System.out.println("Cuneyt line");
         System.out.println("Set up line");
     }
+
+
 }
