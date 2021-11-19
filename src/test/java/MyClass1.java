@@ -3,6 +3,7 @@ public class MyClass1 {
 
         System.out.println("Sati line");
         System.out.println("Cuneyt line");
+        System.out.println("Cuneyt line 2");
         System.out.println("Set up line");
         System.out.println("zeynep line");
         System.out.println("GitHub is cool ");
